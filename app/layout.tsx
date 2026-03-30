@@ -10,8 +10,8 @@ export const metadata: Metadata = {
   title: 'Portfolio | Software Engineer - Full Stack & DevOps',
   description: 'Développeuse Full Stack & IA spécialisée en automatisation intelligente, RAG et systèmes scalables.',
   icons: {
-    icon: '/icon.jpg',
-    apple: '/icon.jpg',
+    icon: '/icon.jpg?v=2',
+    apple: '/icon.jpg?v=2',
   },
 }
 
