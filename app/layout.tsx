@@ -36,6 +36,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="stylesheet"
+          href="https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.css"
+        />
+      </head>
       <body className="font-sans antialiased">
         {children}
         <Analytics />

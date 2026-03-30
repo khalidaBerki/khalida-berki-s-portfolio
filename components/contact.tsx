@@ -13,14 +13,14 @@ const contacts = [
   {
     icon: Github,
     label: "GitHub",
-    value: "@username",
-    href: "https://github.com",
+    value: "@khalidaBerki",
+    href: "https://github.com/khalidaBerki",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
     value: "Profil LinkedIn",
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/khalida-berki/",
   },
 ]
 
